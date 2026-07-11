@@ -34,5 +34,4 @@ The model is trained to classify images and predict the correct class with a con
 ## Author
 
 **Atheer Alharbi**  
-University of Jeddah  
-Bachelor of Artificial Intelligence
+
