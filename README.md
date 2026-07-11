@@ -4,9 +4,7 @@ An image classification project using Teachable Machine, TensorFlow/Keras, and P
 
 ## Project Description
 
-This project is an image classification application developed using Google's Teachable Machine and TensorFlow/Keras.
-
-The model is trained to classify images and predict the correct class with a confidence score.
+This project is an image classification application developed using Google's Teachable Machine and TensorFlow/Keras. The model is trained to classify images and predict the correct class with a confidence score.
 
 ## Technologies Used
 
@@ -18,7 +16,7 @@ The model is trained to classify images and predict the correct class with a con
 
 ## Project Files
 
-- `predict.py` – Python script for loading the model and making predictions.
+- `untitled5.py` – Python script for loading the trained model and making predictions.
 - `keras_model.h5` – Trained image classification model.
 - `labels.txt` – Class labels.
 - `output.png` – Screenshot of the prediction result.
@@ -28,10 +26,10 @@ The model is trained to classify images and predict the correct class with a con
 1. Download all project files.
 2. Install the required Python libraries.
 3. Place the input image in the project folder.
-4. Run `predict.py`.
+4. Run `untitled5.py`.
 5. The program will display the predicted class and confidence score.
 
 ## Author
 
-**Atheer Alharbi**  
+**Atheer Alharbi** 
 
