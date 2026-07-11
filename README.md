@@ -24,12 +24,20 @@ This project is an image classification application developed using Google's Tea
 ## How to Run
 
 1. Download all project files.
-2. Install the required Python libraries.
+2. Install the required Python libraries:
+   ```bash
+   pip install tensorflow tf-keras pillow numpy
+   ```
 3. Place the input image in the project folder.
 4. Run `untitled5.py`.
 5. The program will display the predicted class and confidence score.
 
+## Output
+
+The following screenshot shows the prediction result:
+
+![Prediction Output](output.png)
+
 ## Author
 
-**Atheer Alharbi** 
-
+**Atheer Alharbi**
